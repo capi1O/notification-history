@@ -1,0 +1,10 @@
+{
+  "description": "All notifications including the ones that have been dismissed are visible in the notification List (\"Calendar Popup\") under the History button.",
+  "name": "Notification History",
+  "shell-version": [
+    "49"
+  ],
+  "url": "",
+  "uuid": "notification-history@io.github.capi1O",
+  "version": 4
+}
